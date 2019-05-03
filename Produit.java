@@ -6,6 +6,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.util.Date;
 
+
+//Mon commentaire test Git
 @Entity
 public class Produit {
     @Id
