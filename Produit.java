@@ -10,6 +10,8 @@ import java.util.Date;
 //Mon commentaire test Git
 
 // Mon test depuis INtellij
+
+//Mon 2eme commit intellij
 @Entity
 public class Produit {
     @Id
